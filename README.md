@@ -35,7 +35,7 @@ We will be able to distribute this **go_cli** tool as a Go package. In order to 
 
 Then you will be able to run your tool like this:
 ```sh
-go_cli random
+go_cli getjoke
 
 # random joke with term
 go_cli getjoke --term=hipster
